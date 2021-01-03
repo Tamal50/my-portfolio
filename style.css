@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+section{
+    height: 500px;
+    padding: 150px;
+}
+#top{
+    background-image: url(image/top-banner.png);
+    
+
+}

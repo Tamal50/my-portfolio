@@ -1,0 +1,35 @@
+h1{
+    font-size: 40px;
+}
+
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.highlight{
+    color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+section{
+        height: 500px;
+}
+.link-botton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, crimson, salmon);
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: white;
+}
